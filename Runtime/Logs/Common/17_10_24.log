@@ -1,0 +1,66 @@
+[ 2017-10-24T11:17:06+08:00 ] 192.168.33.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000927s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-10-24T11:17:06+08:00 ] 192.168.33.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-10-24T11:22:57+08:00 ] 192.168.33.1 /Public/css/imgbox-bg-sw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+ERR: 无法加载模块:Public
+
+[ 2017-10-24T11:22:57+08:00 ] 192.168.33.1 /Public/css/imgbox-bg-s.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+ERR: 无法加载模块:Public
+
+[ 2017-10-24T11:22:57+08:00 ] 192.168.33.1 /Public/css/imgbox-bg-se.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004290s ]
+ERR: 无法加载模块:Public
+
+[ 2017-10-24T11:22:57+08:00 ] 192.168.33.1 /Public/css/imgbox-bg-ne.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000132s ]
+ERR: 无法加载模块:Public
+
+[ 2017-10-24T11:22:57+08:00 ] 192.168.33.1 /Public/css/imgbox-bg-n.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+ERR: 无法加载模块:Public
+
+[ 2017-10-24T11:22:57+08:00 ] 192.168.33.1 /Public/css/imgbox-bg-w.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+ERR: 无法加载模块:Public
+
+[ 2017-10-24T11:22:57+08:00 ] 192.168.33.1 /Public/css/imgbox-bg-e.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000176s ]
+ERR: 无法加载模块:Public
+
+[ 2017-10-24T11:22:57+08:00 ] 192.168.33.1 /Public/css/imgbox-bg-nw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+ERR: 无法加载模块:Public
+
+[ 2017-10-24T11:22:57+08:00 ] 192.168.33.1 /Public/css/imgbox-close.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+ERR: 无法加载模块:Public
+
